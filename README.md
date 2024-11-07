@@ -5,6 +5,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: Anil kumar
 - ⚡ Fun fact: ...
+- 🎯 Focused on creating impactful solutions that make a difference
+- 📬 Let's connect! Feel free to reach out for collaborations, projects, or a good tech talk.
+
+
 
 <!---
 Anil9555/Anil9555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
